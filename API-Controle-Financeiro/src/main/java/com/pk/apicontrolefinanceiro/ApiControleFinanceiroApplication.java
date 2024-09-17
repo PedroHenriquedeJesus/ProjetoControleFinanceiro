@@ -1,4 +1,4 @@
-package com.pkv.apicontrolefinanceiro;
+package com.pk.apicontrolefinanceiro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

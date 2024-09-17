@@ -1,4 +1,4 @@
-package com.pkv.apicontrolefinanceiro;
+package com.pk.apicontrolefinanceiro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
